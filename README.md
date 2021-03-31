@@ -1,4 +1,4 @@
-# Basket for shopping
+# Shopping list
 
 - [DEMO LINK](https://olen-ka.github.io/shopping-list/)
 
