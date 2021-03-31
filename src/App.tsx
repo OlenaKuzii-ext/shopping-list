@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { GoodsList } from './components/GoodsList';
 import { NewGoods } from './components/NewGoods';
 import goodsFromServer from './api/goods.json';
+import './App.scss';
 
 export interface IGoodsType {
   [x: string]: any;
